@@ -130,7 +130,7 @@ public class Main {
 
     /**
      * @brief 管理员菜单方法
-     * @details 提供管理员可用的功能，包括商品管理、用户管理等12
+     * @details 提供管理员可用的功能，包括商品管理、用户管理等1
      */
     private static void adminMenu() {
         while (true) {
